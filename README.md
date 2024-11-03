@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaypratap123" alt="vinaypratap123" /></a> </p>
 
-- 🔭 I’m currently working on [Instgram-Clone](https://github.com/vinaypratap123/instagram/tree/dev)
-
-- 🌱 I’m currently learning **Node JS,Express JS**
+- 🔭 I’m currently working on [Blog App](https://github.com/vinaypratap123/blog-app)
 
 - 💬 Ask me about **Flutter and Dart**
 
